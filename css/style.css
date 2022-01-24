@@ -1,0 +1,29 @@
+.board {
+    margin: 40px auto;
+    border: 3px solid #AB9E5E;
+    width: 260px;
+    height: 30px;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 10px 25px;
+    font-family: Helvetica, sans-serif;
+    position: relative;
+  }
+  
+  body {
+   text-align:center;
+   background-color:#d6d6fa;
+   font-family:"arial", sans-serif;
+  }
+  
+  button {
+    background-color:#AB9E5E;
+    color: #d6d6fa;
+  }
+  
+  h1 {
+    font-family:'Wallpoet', cursive;
+  }
+  
