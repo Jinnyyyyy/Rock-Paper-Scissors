@@ -4,7 +4,7 @@ Screenshot
 
 ![home](images/game.jpg)
 
-<Try playing game>
+Try playing game
 
 https://jinnyyyyy.github.io/Rock-Paper-Scissors/
  
